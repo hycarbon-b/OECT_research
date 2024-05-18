@@ -1,0 +1,5 @@
+1.xlsx: 
+	s7c4
+	newly fab -> transfer curve
+	show the memristic effects
+	and it's the first time to measure transfer, show the intrinsic property of pg2t-tt
