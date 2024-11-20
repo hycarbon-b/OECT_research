@@ -1,0 +1,5 @@
+SWV [(1) "swv1"; 8/7/2024 12:15:05 AM]	->	swv1.csv
+SWV [(1) ; 8/7/2024 12:15:05 AM]	->	-2.csv
+SWV [(1) ; 8/7/2024 12:15:05 AM]	->	.csv
+I/V Sweep [(18) "1 lgp output s11c1"; 7/24/2024 2:30:17 AM]	->	1 lgp output s11c1-2.csv
+I/V Sweep [(18) "1 lgp output s11c1"; 7/24/2024 2:30:17 AM]	->	1 lgp output s11c1.csv

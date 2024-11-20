@@ -9,8 +9,29 @@ Describe things below:
 
 ## (a1)On_off cyclic test
 
-## (b1)Benchmark Transient response
+## (b) Benchmark 
 
-## (b2)Benchmark output
+### (b1)Benchmark Transient response
+Single pulse observation
+- `Vg`: default -0.2, change it in wave1
+- `Vd`: default -0.25, change it in wave2
+- `Pulse width`: default 
 
-## (b3)Benchmark transfer
+### (b2)Benchmark output
+
+### (b3)Benchmark transfer
+
+### (b4)Benchmark 32-HGP-LGP-NGP
+
+## (c) Strandard measurement
+### (c1) Output curve in LGP
+- `Vd`: 0.1 -> -0.4, step -10m
+- `Vg`: 0.1 -> -0.4, step -0.1
+- bidirection
+### (c2) Transfer curve in LGP
+- `Vd`: -0.25
+- `Vg`: 0.1 -> -0.4, step -10m
+- `cyclic`: 5
+- bidirection
+
+

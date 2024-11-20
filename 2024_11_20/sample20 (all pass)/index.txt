@@ -1,0 +1,7 @@
+(c1) Output curve in LGP [(20) "s20c4\"; 11/20/2024 1:27:31 AM]	->	s20c4_-(c1) Output curve in LGP-11_20_2024 1_27_31 AM.csv
+(c1) Output curve in LGP [(19) "s20c5"; 11/20/2024 1:25:41 AM]	->	s20c5-(c1) Output curve in LGP-11_20_2024 1_25_41 AM.csv
+(c1) Output curve in LGP [(18) "s20c6"; 11/20/2024 1:24:36 AM]	->	s20c6-(c1) Output curve in LGP-11_20_2024 1_24_36 AM.csv
+(c1) Output curve in LGP [(18) "s20c4"; 11/20/2024 1:24:36 AM]	->	s20c4-(c1) Output curve in LGP-11_20_2024 1_24_36 AM.csv
+(c1) Output curve in LGP [(17) "s20c3"; 11/20/2024 1:23:03 AM]	->	s20c3-(c1) Output curve in LGP-11_20_2024 1_23_03 AM.csv
+(c1) Output curve in LGP [(16) "s20c2"; 11/20/2024 1:21:53 AM]	->	s20c2-(c1) Output curve in LGP-11_20_2024 1_21_53 AM.csv
+(c1) Output curve in LGP [(15) "s13c1"; 11/20/2024 1:08:51 AM]	->	s13c1-(c1) Output curve in LGP-11_20_2024 1_08_51 AM.csv
