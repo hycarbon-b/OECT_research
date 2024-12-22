@@ -1,0 +1,10 @@
+(c1) Output curve in LGP [(1) "s21c2"; 12/22/2024 4:38:39 AM]	->	s21c2-(c1) Output curve in LGP-12_22_2024 4_38_39 AM.csv
+(c2) Transfer curve in LGP [(2) "s21c2"; 12/22/2024 4:38:10 AM]	->	s21c2-(c2) Transfer curve in LGP-12_22_2024 4_38_10 AM.csv
+(c2) Transfer curve in LGP [(1) "s21c1"; 12/22/2024 4:36:48 AM]	->	s21c1-(c2) Transfer curve in LGP-12_22_2024 4_36_48 AM.csv
+(c1) Output curve in LGP [(1) "s21c1"; 12/22/2024 4:35:43 AM]	->	s21c1-(c1) Output curve in LGP-12_22_2024 4_35_43 AM.csv
+(c2) Transfer curve in LGP [(1) "s21c5"; 12/22/2024 4:46:57 AM]	->	s21c5-(c2) Transfer curve in LGP-12_22_2024 4_46_57 AM.csv
+(c1) Output curve in LGP [(2) "s21c5"; 12/22/2024 4:46:37 AM]	->	s21c5-(c1) Output curve in LGP-12_22_2024 4_46_37 AM.csv
+(c1) Output curve in LGP [(1) "s21c4"; 12/22/2024 4:44:58 AM]	->	s21c4-(c1) Output curve in LGP-12_22_2024 4_44_58 AM.csv
+(c2) Transfer curve in LGP [(2) "s21c4"; 12/22/2024 4:44:34 AM]	->	s21c4-(c2) Transfer curve in LGP-12_22_2024 4_44_34 AM.csv
+(c2) Transfer curve in LGP [(1) "s21c3"; 12/22/2024 4:40:47 AM]	->	s21c3-(c2) Transfer curve in LGP-12_22_2024 4_40_47 AM.csv
+(c1) Output curve in LGP [(2) "s21c3"; 12/22/2024 4:40:24 AM]	->	s21c3-(c1) Output curve in LGP-12_22_2024 4_40_24 AM.csv

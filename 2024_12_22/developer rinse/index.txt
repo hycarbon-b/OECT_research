@@ -1,0 +1,10 @@
+(c2) Transfer curve in LGP [(1) "developer-s21c5"; 12/22/2024 6:09:51 AM]	->	developer-s21c5-(c2) Transfer curve in LGP-12_22_2024 6_09_51 AM.csv
+(c1) Output curve in LGP [(2) "developer-s21c5"; 12/22/2024 6:09:20 AM]	->	developer-s21c5-(c1) Output curve in LGP-12_22_2024 6_09_20 AM.csv
+(c1) Output curve in LGP [(1) "developer-s21c4"; 12/22/2024 6:08:36 AM]	->	developer-s21c4-(c1) Output curve in LGP-12_22_2024 6_08_36 AM.csv
+(c2) Transfer curve in LGP [(3) "developer-s21c4"; 12/22/2024 6:08:03 AM]	->	developer-s21c4-(c2) Transfer curve in LGP-12_22_2024 6_08_03 AM.csv
+(c2) Transfer curve in LGP [(1) "developer-s21c3"; 12/22/2024 6:07:12 AM]	->	developer-s21c3-(c2) Transfer curve in LGP-12_22_2024 6_07_12 AM.csv
+(c1) Output curve in LGP [(2) "developer-s21c3"; 12/22/2024 6:06:35 AM]	->	developer-s21c3-(c1) Output curve in LGP-12_22_2024 6_06_35 AM.csv
+(c1) Output curve in LGP [(1) "developer-s21c2"; 12/22/2024 6:05:51 AM]	->	developer-s21c2-(c1) Output curve in LGP-12_22_2024 6_05_51 AM.csv
+(c2) Transfer curve in LGP [(2) "developer-s21c2"; 12/22/2024 6:05:05 AM]	->	developer-s21c2-(c2) Transfer curve in LGP-12_22_2024 6_05_05 AM.csv
+(c2) Transfer curve in LGP [(1) "devloper-s21c1"; 12/22/2024 6:00:56 AM]	->	devloper-s21c1-(c2) Transfer curve in LGP-12_22_2024 6_00_56 AM.csv
+(c1) Output curve in LGP [(2) "developer-s21c1"; 12/22/2024 5:59:53 AM]	->	developer-s21c1-(c1) Output curve in LGP-12_22_2024 5_59_53 AM.csv
